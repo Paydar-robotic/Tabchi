@@ -58,7 +58,7 @@ function paydarteam() {
 	white "     >>>>                       We Are Programmer                               "
 	white "     >>>>                       We Are The Best                                 "
 	red   "     >>>>                       We Are Family                                   "
-	red   "     >>>>                       @Paydaream                                     "
+	red   "     >>>>                       @PaydarTeam                                     "
 	echo -e "\e[0m"
 }
 
