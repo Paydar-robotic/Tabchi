@@ -16,7 +16,7 @@
 
 ]]--
 
--- Vector example form is like this: {[0] = v} or {v1, v2, v3, [0] = v}
+-- Vector example form is like this: {[0] = v} or {v1, v2, v3, [0] = v} 
 -- If false or true crashed your telegram-cli, try to change true to 1 and false to 0
 
 -- Main Bot Framework
