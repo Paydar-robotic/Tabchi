@@ -22,7 +22,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 ]]
 -----------------------------------------------------------------------------
--- URI parsing, composition and relative URL resolution
+-- URI parsing, composition and relative URL resolution 
 -- LuaSocket toolkit.
 -- Author: Diego Nehab
 -- RCS ID: $Id: url.lua,v 1.38 2006/04/03 04:45:42 diego Exp $
